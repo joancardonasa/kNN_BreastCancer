@@ -1,2 +1,2 @@
 # kNN_BreastCancer
-k - Neares Neighbour Algorithm for Breast Cancer diagnosis
+k - Nearest Neighbour Algorithm for Breast Cancer diagnosis
